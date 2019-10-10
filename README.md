@@ -4,11 +4,9 @@ The project was published on the siliconrepublic.com on the 26th of June 2019 (h
 
 The project is a smart lamp with face detection, emotion reconition and much more ..
 
-
 ![Alt text](https://github.com/ashraf-mustafa/Lampbot/blob/master/siliconrep.png?raw=true)
 
-
-
+![Alt text](https://github.com/ashraf-mustafa/Lampbot/blob/master/lampbot.jpg?raw=true)
 
 
 
