@@ -1,6 +1,6 @@
 # Lampbot project
 
-   This is part of a lamp robots (LAMPBOT) in our fourth semester in second year, working with a group of students from the second year of The internet of things and third year of Electronics engineering, the purpose of the project is to make a group of lamp robots able to interact with people in many ways such as detecting and tracking faces, recognizing the emotions of the person in front of them and respond by  changing the shape of their eyes, moving and rotating according to the person's face location and turning towards the direction where the voice come from as well
+   This is part of a lamp robots (LAMPBOT) in our fourth semester, working with a group of students from the second year of The internet of things and third year of Electronics engineering, the purpose of the project is to make a group of lamp robots able to interact with people in many ways such as detecting and tracking faces, recognizing the emotions of the person in front of them and respond by  changing the shape of their eyes, moving and rotating according to the person's face location and turning towards the direction where the voice come from as well
 
    My job in this project was to work on the real-time emotion recognition and send the data (integer numbers) to the team working on the lamp robot's eyes via RoboRealm software where it is then converted to specific emotional shapes according to the emotion recognized on the person's face
   
